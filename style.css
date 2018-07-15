@@ -37,6 +37,9 @@ color:black;
 }
 .mainpic {
     height:300px;
-    margin-left:auto;
-    margin-right:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top:auto;
 }
