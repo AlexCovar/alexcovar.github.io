@@ -1,0 +1,11 @@
+body {
+    background-color:gold;
+}
+#header {
+    border:solid 3px;
+    width:470px;
+}
+#cinfo {
+    color:purple;
+    font-size:24px;
+}
